@@ -1,0 +1,5 @@
+VCD info: dumpfile results/logs/siso_16.vcd opened for output.
+--------------------------------------------------
+12 test cases | 75 checks | 0 errors
+RESULT: PASS
+tb/tb_siso_16.v:123: $finish called at 736000 (1ps)

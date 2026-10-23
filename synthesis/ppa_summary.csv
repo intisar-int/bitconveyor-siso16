@@ -1,0 +1,3 @@
+corner,library,pvt,total_cells,total_area_um2,leakage_nW,internal_nW,net_nW,switching_nW
+slow,slow_vdd1v0,PVT_0P9V_125C,66,178.182,3.178,3726.672,764.074,4490.746
+fast,fast_vdd1v0,PVT_1P1V_0C,66,178.182,10.045,6002.028,1493.304,7495.332

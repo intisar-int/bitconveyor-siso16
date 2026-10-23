@@ -1,0 +1,12 @@
+corner,cell,instances,area_um2
+slow,NOR2X1,16,16.416
+slow,AOI22X1,16,32.832
+slow,MX2XL,17,40.698
+slow,DFFQXL,16,87.552
+slow,INVX1,1,0.684
+fast,DFFQXL,16,87.552
+fast,AOI22X1,15,30.780
+fast,MX2XL,17,40.698
+fast,NOR2X1,16,16.416
+fast,INVXL,1,0.684
+fast,AOI22XL,1,2.052

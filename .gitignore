@@ -1,0 +1,9 @@
+build/
+__pycache__/
+*.pyc
+.venv/
+# Quartus build artifacts
+db/
+incremental_db/
+*.sof
+*.pof
