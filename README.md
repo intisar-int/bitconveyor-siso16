@@ -178,4 +178,8 @@ The Quartus project opens directly from `quartus/siso_16.qpf` after copying `rtl
 
 ## Contributors
 
-Abrar Faiyaz Niloy, Shahoria Ahmmad Durjoy, Nazmus Sakib Adib, Intisar Ahmad and Arnab Mondal Dhruba.
+Abrar, Shahoria, Nazmus, Intisar and Arnab.
+
+## License
+
+Released under the MIT License. See [`LICENSE`](LICENSE).
